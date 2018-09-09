@@ -1,2 +1,0 @@
-# openr
-Facebook openr code 
